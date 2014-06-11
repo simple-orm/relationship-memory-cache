@@ -1,0 +1,30 @@
+{
+  "name": "simple-orm-relationship-memory-cache",
+  "version": "0.1.0",
+  "description": "Caches relationships per model when retrieved in memory",
+  "keywords": [
+    "simple",
+    "orm",
+    "plugin",
+    "cache"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simple-orm/relationship-memory-cache"
+  },
+  "bugs": {
+    "url": "https://github.com/simple-orm/relationship-memory-cache/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ryan Zec",
+    "email": "code@ryanzec.com",
+    "url": "http://www.ryanzec.com"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.11.10"
+  },
+  "main": "lib/index.js"
+}
